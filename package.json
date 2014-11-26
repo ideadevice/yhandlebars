@@ -15,7 +15,7 @@
     },
     "dependencies": {
         "optimist": "~0.3",
-        "yui" : ">=3.6.0",
+        "yui" : "3.17.2",
         "uglify-js": "~1.2"
     },
     "repository": {
